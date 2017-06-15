@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/timjon13/ca-project.png?label=ready&title=Ready)](https://waffle.io/timjon13/ca-project?utm_source=badge)
 # Keystone project
 
 This project is meant for you to make awesome, with the skills in your Continuous Delivery and DevOps toolbox.
