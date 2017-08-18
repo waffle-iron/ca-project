@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/soirs/ca-project.png?label=ready&title=Ready)](https://waffle.io/soirs/ca-project?utm_source=badge)
 [![Stories in Ready](https://badge.waffle.io/Isabanh/ca-project.png?label=ready&title=Ready)](https://waffle.io/Isabanh/ca-project?utm_source=badge)
 [![Stories in Ready](https://badge.waffle.io/JonathanKrogsager/ca-project.png?label=ready&title=Ready)](https://waffle.io/JonathanKrogsager/ca-project?utm_source=badge)
 [![Stories in Ready](https://badge.waffle.io/Knut-Aage-Hofseth/ca-project.png?label=ready&title=Ready)](https://waffle.io/Knut-Aage-Hofseth/ca-project?utm_source=badge)
